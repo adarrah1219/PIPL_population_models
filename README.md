@@ -6,3 +6,6 @@ growth rate with and without exclosures as a function of different combinations 
 These differences were exported as "predictionFrame.csv", with the corresponding abandonment and predation probabilities exported
 in "predictors.csv", files that are included in the tool package to re-create the smoothing function and 3-D plot in the 
 tool. 
+
+file "metapopulation_5sites.R" contains script for a 5-site metapopulation model. Original file was last edited in July 2016,
+I've made changes to the single-site population since then that may need to be incorporated into the metapopulation model.
